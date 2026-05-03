@@ -1,6 +1,6 @@
 本软件全程使用cursor+Gemini vibe coding 制作，部分小红书数据爬虫代码来源于网络，自行整理优化
 
-具体查网址点击：https://xhsanalysisrecommendation-hsqonpdgzbgz2bx5yzvsvj.streamlit.app/
+具体网址请点击：https://xhsanalysisrecommendation-hsqonpdgzbgz2bx5yzvsvj.streamlit.app/
 
 本网页功能如下：
 
