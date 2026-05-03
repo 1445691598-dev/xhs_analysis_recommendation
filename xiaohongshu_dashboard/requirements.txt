@@ -1,0 +1,5 @@
+# Streamlit Community Cloud 等线上环境：仅安装看板 + AI 所需依赖
+streamlit>=1.28.0
+pandas>=2.0.0
+openai>=1.40.0
+python-dotenv>=1.0.0

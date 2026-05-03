@@ -1,0 +1,2 @@
+# 本地开发：在已安装 requirements.txt 的基础上，再安装浏览器抓取
+DrissionPage>=4.0.0
